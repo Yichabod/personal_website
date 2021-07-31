@@ -1,13 +1,12 @@
 ---
-title: "Test_post"
-date: 2021-06-25T22:00:25-05:00
+title: "Why I'm researching open source ML"
+date: 2021-07-31
 draft: false
 ---
-Testing Text
-## Mark down
-*Italic*
-**Bold** 
-#### Smaller
-- bullet
-- bullet
-    - indented bullet
+## Why I'm researching open source ML
+
+The story I tell depends on whether I'm writing a grant or talking to a collaborator. The short honest reason I tell myself is that it's fun and probably useful, which I'd contend are basically the two most useful criteria when making decisions about work.
+
+It's fun because I love trying new things.
+
+It's probably useful because open source ML (which you will see me use interchangeably with open source AI — sticklers please forgive me) is important but understudied. In my grant application, I argued that the 'AI production function'

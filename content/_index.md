@@ -1,37 +1,20 @@
-I think and write about technology and society. Lately I've been obsessed with
+I think and write about technology and society. Sometimes I build things too. Lately I've been obsessed with
 the following question:
 
-"How can we govern our digital commons so as to enrich our relationship with
-technology?"
+|How should we govern our digital institutions?|
+|---------------------------------|
 
-It's a big question, and I'm tackling it from the angle of looking at open
-source machine learning projects.
+I take an interdisciplinary lens, which can mean exploring the implications of antitrust law or finding the equilibrium of a collective choice mechanism. Right now, though, I'm examining the governance
+of open source machine learning projects.
 
 I'm a CS Master's student at MIT, where I also graduated graduated in 2021 with a
-degree in Computer Science. I'm very grateful to be supported during this
-experience by a grant from the Open Philanthropy foundation.
+degree in Computer Science (with much dabbling also in economics and philosophy). Because of a generous grant from [Open Philanthropy](https://www.openphilanthropy.org), I'm directing my own research project and working loosely with a number of ethnographers, developers, and otherwise interdisciplinary people.
 
-I've been a data research analyst at the wonderful Center for Security and
-Emerging Technology, a 
+In the past, I've been a data research analyst at the wonderful [Center for Security and
+Emerging Technology](https://cset.georgetown.edu/), a policy intern at the [Office of Science and Technology Policy](https://www.whitehouse.gov/ostp/), and a researcher at the MIT Computational Cognitive Science group.
 
-Intellectual influences of mine include Elinor Ostrom, David Chapman
+Intellectual influences of mine include Elinor Ostrom, Nadia Eghbal, and David Chapman. I am deeply grateful to them and their mutuals for inspiring me and shaping my worldview.
 
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
-
+My mailing list is for the occasional personal update and reflection. My
+Substack is for more regular updates on my open source governance research. You
+can also find me on [Twitter](https://twitter.com/mslkmp).
