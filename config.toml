@@ -3,20 +3,20 @@ baseURL = "https://yichabod.github.io"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-math = false          # enable KaTeX (https://katex.org/) globally
+math = true          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Max Langenkamp"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "Max's personal website"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Max Langenkamp"
     url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata"
-    pageWidth = "750px"
+    fontFamily = "Baskerville" #Inconsolata
+    pageWidth = "850px"
     avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
@@ -46,7 +46,7 @@ googleAnalytics = ""  # add your tracking id
   #weight = 2
   [[menu.main]]
     name = "writing"
-    url = "/posts"
+    url = "/writing"
     weight = 1
   
   [[menu.main]]
@@ -61,7 +61,7 @@ googleAnalytics = ""  # add your tracking id
 
   [[menu.main]]
     name = "newsletter"
-    url = "/"
+    url = "https://maxlangenkamp.substack.com/"
     weight = 3
 
 [markup.goldmark.renderer]

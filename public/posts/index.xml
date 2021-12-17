@@ -5,16 +5,61 @@
     <link>https://yichabod.github.io/posts/</link>
     <description>Recent content in Posts on Max Langenkamp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Jun 2021 22:00:25 -0500</lastBuildDate><atom:link href="https://yichabod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yichabod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test_post</title>
-      <link>https://yichabod.github.io/posts/test_post/</link>
-      <pubDate>Fri, 25 Jun 2021 22:00:25 -0500</pubDate>
+      <title>What is an institution? Introducing &#39;A Grammar of Institutions&#39;</title>
+      <link>https://yichabod.github.io/posts/institution/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yichabod.github.io/posts/test_post/</guid>
-      <description>Testing Text
-Mark down Italic Bold
-Smaller  bullet bullet  indented bullet    </description>
+      <guid>https://yichabod.github.io/posts/institution/</guid>
+      <description>What is an institution? Introducing &amp;lsquo;A Grammar of Institutions&amp;rsquo; This is part of my series on Ostrom. You can also find the root page here.
+&amp;lsquo;How should we define institutions?&#39;1 This is a difficult but surprisingly important question; at its core, traditional political science is about the study of institutions. Also, if we want to talk about governance, we need also a vocabulary to discuss the setting where governance takes place.</description>
+    </item>
+    
+    <item>
+      <title>Ostrom&#39;s Teachings</title>
+      <link>https://yichabod.github.io/posts/ostrom/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/ostrom/</guid>
+      <description>This is a collection for the most important things I have learned from reading Elinor Ostrom. It is not comprehensive (for that you might turn to the Four Volume tome published by Lexington press). These are just some of the insights that I found most striking.
+My plan for the series:
+ What is an institution? Introducing &amp;lsquo;A Grammar&amp;rsquo; An overview of Institutional Analysis and Development Reflections on &amp;lsquo;Governing the Commons&amp;rsquo; &amp;hellip;(TBD)  </description>
+    </item>
+    
+    <item>
+      <title>Questions about Governance</title>
+      <link>https://yichabod.github.io/posts/questions_about_governance/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/questions_about_governance/</guid>
+      <description>This is a live document. If you have any suggestions, please let me know at maxlangenkamp[at]me.com
+Questions about Governance: A Primer Earlier on, I collected some key questions about economic growth. This page is my attempt to gather the key questions about governance.
+As before, I found this exercise especially useful. I will also be using the descriptive/normative division to organize the questions.
+A brief note before I get to the questions: as David Levi-Faur points out in the Oxford Handbook of Governance, &amp;lsquo;governance&amp;rsquo; has been introduced only very recently.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yichabod.github.io/posts/decentralized_governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/decentralized_governance/</guid>
+      <description>Governing the Decentralized Commons Taking a digital constitutionalism lens to Web3
+Enoshima in Sagami Province, from the series &amp;ldquo;Thirty-six Views of Mount Fuji (富嶽三十六景)&amp;rdquo;
+At the beginning of the Tokugawa shogunate (1600-1868), there were several agrarian villages in the Yamanashi prefecture. During the civil wars that led to the overthrow of the Ashikaga shogunate, vast swathes of land became commons — the open fields belonged to no feudal lord1.
+Amid this free-for-all, some villagers began to take more than their due — reaping more rice crops than was sustainable, cutting down trees than could naturally regrow.</description>
+    </item>
+    
+    <item>
+      <title>Questions about Economic Growth</title>
+      <link>https://yichabod.github.io/posts/questions_about_growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/questions_about_growth/</guid>
+      <description>This is a live document. If you have any suggestions, please let me know at maxlangenkamp[at]me.com
+Questions about Growth There is much ado about economic growth1. I wanted to better understand the debate, so I decided to collect the key questions. This essay is a breadth-first examination of growth and governance using questions
+Why questioning instead of summarizing? Questioning requires understanding the intention of research in a way that summarizing does not.</description>
     </item>
     
   </channel>
