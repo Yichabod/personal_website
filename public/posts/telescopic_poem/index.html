@@ -2,7 +2,7 @@
 <html lang=""><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>404 Page not found</title>
+    <title>Ostrom&#39;s Teachings</title>
     <meta name="description" content="Max&#39;s personal website">
     <meta name="author" content='Max Langenkamp'>
 
@@ -65,8 +65,22 @@
 <hr>
 <div id="content">
 <div class="container">
-    <h1>404 Error</h1>
-    <p>Page does not exist.</p>
+    <div id="text-container"></div>
+<script>
+    const content = `
+* I 
+  * Yawning, I
+    * Yawning, Yawning, Yawning
+        * I saw her
+* made 
+* tea
+    * love`;
+    const node = createTelescopicTextFromBulletedList(content);
+    const container = document.getElementById("text-container");
+    container.appendChild(node);
+</script><blockquote>
+</blockquote>
+
 </div>
 
         </div><div id="footer" class="mb-5">

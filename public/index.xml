@@ -41,6 +41,16 @@ A brief note before I get to the questions: as David Levi-Faur points out in the
     
     <item>
       <title></title>
+      <link>https://yichabod.github.io/posts/2021_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/2021_review/</guid>
+      <description>Gorgeous Chemical Fires Note: you are one of a small number of people getting this update (because I care about you or else you are sasha chapin). Perhaps it should go without out saying but I request that you please don’t share this without asking beforehand. (Subnote: the original version of this was hosted on substack and I&amp;rsquo;ve repasted it here so all the links are missing)
+As I start this letter, I am 10,000 meters above the ground, squeezed between two strangers with a polypropylene mask over my face.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://yichabod.github.io/posts/decentralized_governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -70,6 +80,15 @@ Amid this free-for-all, some villagers began to take more than their due — rea
 Taking an Ostrom-informed digital constitutionalism lens to Web3. This also serves as an introduction to my project with Metagov.
 Pruning in Brains and Machines December 10th, 2021
 “At one point, you and I were just a fertilized egg cell inside our mother’s womb. Over the next eight months, we grew a brain. When our mother gave birth to us, we were wet and confused.</description>
+    </item>
+    
+    <item>
+      <title>Ostrom&#39;s Teachings</title>
+      <link>https://yichabod.github.io/posts/telescopic_poem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/telescopic_poem/</guid>
+      <description>  const content = ` * I * Yawning, I * Yawning, Yawning, Yawning * I saw her * made * tea * love`; const node = createTelescopicTextFromBulletedList(content); const container = document.getElementById(&#34;text-container&#34;); container.appendChild(node);   </description>
     </item>
     
     <item>

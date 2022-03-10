@@ -41,6 +41,16 @@ A brief note before I get to the questions: as David Levi-Faur points out in the
     
     <item>
       <title></title>
+      <link>https://yichabod.github.io/posts/2021_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/2021_review/</guid>
+      <description>Gorgeous Chemical Fires Note: you are one of a small number of people getting this update (because I care about you or else you are sasha chapin). Perhaps it should go without out saying but I request that you please don’t share this without asking beforehand. (Subnote: the original version of this was hosted on substack and I&amp;rsquo;ve repasted it here so all the links are missing)
+As I start this letter, I am 10,000 meters above the ground, squeezed between two strangers with a polypropylene mask over my face.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://yichabod.github.io/posts/decentralized_governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -49,6 +59,15 @@ A brief note before I get to the questions: as David Levi-Faur points out in the
 Enoshima in Sagami Province, from the series &amp;ldquo;Thirty-six Views of Mount Fuji (富嶽三十六景)&amp;rdquo;
 At the beginning of the Tokugawa shogunate (1600-1868), there were several agrarian villages in the Yamanashi prefecture. During the civil wars that led to the overthrow of the Ashikaga shogunate, vast swathes of land became commons — the open fields belonged to no feudal lord1.
 Amid this free-for-all, some villagers began to take more than their due — reaping more rice crops than was sustainable, cutting down trees than could naturally regrow.</description>
+    </item>
+    
+    <item>
+      <title>Ostrom&#39;s Teachings</title>
+      <link>https://yichabod.github.io/posts/telescopic_poem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yichabod.github.io/posts/telescopic_poem/</guid>
+      <description>  const content = ` * I * Yawning, I * Yawning, Yawning, Yawning * I saw her * made * tea * love`; const node = createTelescopicTextFromBulletedList(content); const container = document.getElementById(&#34;text-container&#34;); container.appendChild(node);   </description>
     </item>
     
     <item>
