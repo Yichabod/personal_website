@@ -1,5 +1,8 @@
 # Essays
 
+See also my [Book Reviews](/book_reviews).
+
+
 #### [Governing the Decentralized Commons](/posts/decentralized_governance)
 *December 12th, 2021*
 
@@ -10,7 +13,7 @@ serves as an introduction to my project with Metagov.
 *December 10th, 2021*
 
 “At one point, you and I were just a fertilized egg cell inside our mother’s womb. Over the next eight months, we grew a brain. When our mother gave birth to us, we were wet and confused.”
-A group essay for MIT's *6.881: Tissue vs Silicon in Machine Learning*
+A group essay for MIT's *6.881: Tissue vs Silicon in Machine Learning*.
 Featuring microglia eating synapses, Amdahl’s Law, and the Lottery Ticket Hypothesis.
 
 #### [What is an institution?](/posts/institution)
