@@ -1,6 +1,6 @@
 # Book Reviews
 
-Half of these are scribbles for my memory retention that I've been asked to share. I've bolded the more comprehensive reviews.
+Half of these are scribbles for my memory retention that I've been asked to share. 
 
 #### [Age of Ambition: Chasing Fortune, Truth, and Faith in the New China](/posts/age_of_ambition)
 
